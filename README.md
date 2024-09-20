@@ -1,6 +1,6 @@
 # Remote Monitoring and Management
 
-#Description
+# Description
 An advanced monitoring solution designed to track CPU utilization, disk usage, and device status. The application leverages Python, FastAPI, MongoDB, Docker, and Nginx to ensure reliable, real-time monitoring and enhanced system performance.
 
 ## Features
